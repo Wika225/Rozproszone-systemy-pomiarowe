@@ -1,5 +1,4 @@
-# EXAMPLE 
-# TODO
+
 CREATE TABLE sensor (
     uuid UUID PRIMARY KEY,
     name TEXT NOT NULL,
